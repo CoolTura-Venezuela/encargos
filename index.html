@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Encargos · Cooltura</title>
+<meta name="description" content="¿No lo tenemos? Te lo traemos. Encarga LEGO, Funko Pop!, 4D Build y más coleccionables con envío a toda Venezuela.">
+<meta property="og:title" content="Encargos Cooltura">
+<meta property="og:description" content="¿No lo tenemos? Te lo traemos. LEGO, Funko Pop! y coleccionables por encargo con envío a toda Venezuela.">
+<meta property="og:image" content="https://cooltura-venezuela.github.io/encargos/assets/og.jpg">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#FF3131">
+<link rel="icon" href="assets/icon.png">
+<link rel="apple-touch-icon" href="assets/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+@font-face{font-family:"Cal Sans";src:url("assets/CalSans-SemiBold.otf") format("opentype");font-weight:600;font-display:swap}
+:root{
+  --red:#FF3131; --blue:#007BFF; --yellow:#FFD900; --black:#000; --white:#fff;
+  --paper:#FFFFFF; --ink:#000; --muted:#4a4a4a;
+  --line:3px solid var(--black);
+  --pop:5px 5px 0 var(--black);
+  --display:"Cal Sans", "Figtree", system-ui, sans-serif;
+  --body:"Figtree", system-ui, -apple-system, sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{font-family:var(--body);color:var(--ink);background:var(--paper);font-size:16px;line-height:1.5;overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit}
+button{font:inherit;color:inherit;cursor:pointer;background:none;border:0}
+:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+.wrap{max-width:1040px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right))}
+
+/* ---------- Hero ---------- */
+.hero{background:var(--red);color:var(--white);position:relative;overflow:hidden;border-bottom:var(--line);padding:20px 0 44px}
+.blob{position:absolute;background:var(--blue);border-radius:58% 42% 63% 37% / 45% 55% 45% 55%;z-index:0}
+.blob.b1{width:260px;height:200px;right:-70px;top:30px;transform:rotate(-18deg)}
+.blob.b2{width:170px;height:150px;left:-60px;bottom:-40px;transform:rotate(24deg)}
+.blob.b3{width:70px;height:46px;right:40%;top:-16px;background:var(--black);border-radius:50%}
+.hero .wrap{position:relative;z-index:1}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none}
+.brand img{width:46px;height:46px;border:var(--line);border-radius:12px}
+.brand span{font-family:var(--display);font-size:20px;letter-spacing:.2px}
+.hero h1{font-family:var(--display);font-weight:600;font-size:clamp(64px,19vw,148px);line-height:.92;letter-spacing:-1px;margin-top:34px;
+  text-shadow:1px 1px 0 #000,2px 2px 0 #000,3px 3px 0 #000,4px 4px 0 #000,5px 5px 0 #000,6px 6px 0 #000,7px 7px 0 #000,8px 8px 0 #000;
+  -webkit-text-stroke:2px #000;paint-order:stroke fill}
+.hero .lead{font-family:var(--display);font-size:clamp(24px,6.4vw,38px);line-height:1.1;margin-top:18px;max-width:16ch}
+.hero .sub{margin-top:12px;font-size:17px;max-width:34ch;font-weight:500}
+
+/* ---------- Cómo funciona ---------- */
+.how{padding-top:40px;padding-bottom:8px}
+h2{font-family:var(--display);font-weight:600;font-size:32px;line-height:1.1}
+.steps{list-style:none;margin-top:20px;display:grid;gap:14px}
+.step{display:grid;grid-template-columns:52px 1fr;gap:14px;align-items:start;border:var(--line);border-radius:16px;padding:14px;background:var(--white);box-shadow:var(--pop)}
+.step .n{width:52px;height:52px;border:var(--line);border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-size:26px;line-height:1}
+.step:nth-child(1) .n{background:var(--yellow)}
+.step:nth-child(2) .n{background:var(--blue);color:var(--white)}
+.step:nth-child(3) .n{background:var(--red);color:var(--white)}
+.step h3{font-family:var(--display);font-weight:600;font-size:20px;line-height:1.2}
+.step p{color:var(--muted);margin-top:2px}
+.facts{margin-top:26px;display:grid;gap:10px}
+.fact{display:flex;gap:10px;align-items:flex-start;font-size:15px}
+.fact b{font-weight:700}
+.fact .ic{flex:none;width:26px;text-align:center;font-size:18px;line-height:1.4}
+
+/* ---------- Catálogo ---------- */
+.catalog{padding-top:44px;padding-bottom:20px}
+.catalog-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.count{color:var(--muted);font-size:15px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:20px}
+.card{border:var(--line);border-radius:16px;background:var(--white);box-shadow:var(--pop);overflow:hidden;text-align:left;display:flex;flex-direction:column;transition:transform .12s ease, box-shadow .12s ease}
+.card:active{transform:translate(3px,3px);box-shadow:2px 2px 0 #000}
+.card .ph{aspect-ratio:1/1;background:#fff;border-bottom:var(--line);padding:10px;display:grid;place-items:center}
+.card .ph img{width:100%;height:100%;object-fit:contain}
+.card .info{padding:10px 12px 12px;display:flex;flex-direction:column;gap:2px;flex:1}
+.card .line{font-size:13px;color:var(--muted);font-weight:600}
+.card .name{font-family:var(--display);font-weight:600;font-size:18px;line-height:1.15}
+.card .meta{font-size:13px;color:var(--muted)}
+.tag{margin-top:auto;padding-top:10px}
+.price{display:inline-block;font-family:var(--display);font-size:22px;line-height:1;background:var(--yellow);border:var(--line);border-radius:10px;padding:6px 10px 5px;transform:rotate(-2deg)}
+
+/* ---------- CTA ---------- */
+.ask{margin:36px 0 0;background:var(--blue);color:var(--white);border-top:var(--line);border-bottom:var(--line);padding:40px 0 48px}
+.ask h2{font-size:clamp(30px,8vw,44px)}
+.ask p{margin-top:10px;max-width:38ch;font-size:17px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;font-family:var(--display);font-weight:600;font-size:19px;line-height:1;padding:16px 22px;border:var(--line);border-radius:14px;box-shadow:var(--pop);text-decoration:none;background:#25D366;color:#000;transition:transform .12s ease, box-shadow .12s ease}
+.btn:active{transform:translate(3px,3px);box-shadow:2px 2px 0 #000}
+.btn svg{width:22px;height:22px;flex:none}
+.ask .btn{margin-top:22px;background:var(--yellow)}
+footer.wrap{padding-top:26px;padding-bottom:40px;font-size:14px;color:var(--muted)}
+footer a{font-weight:700;color:var(--ink)}
+
+/* ---------- Ficha (sheet) ---------- */
+.sheet{position:fixed;inset:0;z-index:50;display:none}
+.sheet.open{display:block}
+.sheet .scrim{position:absolute;inset:0;background:rgba(0,0,0,.55)}
+.panel{position:absolute;left:0;right:0;bottom:0;max-height:94vh;max-height:94dvh;overflow-y:auto;background:var(--white);border-top:var(--line);border-radius:22px 22px 0 0;animation:up .26s cubic-bezier(.2,.8,.2,1)}
+@keyframes up{from{transform:translateY(40px);opacity:.4}to{transform:none;opacity:1}}
+@media (min-width:760px){
+  .panel{left:50%;top:50%;bottom:auto;right:auto;width:min(760px,92vw);max-height:90vh;transform:translate(-50%,-50%);border:var(--line);border-radius:22px;box-shadow:8px 8px 0 #000;animation:none}
+}
+.close{position:sticky;top:10px;margin:10px 10px -54px auto;z-index:3;display:grid;place-items:center;width:44px;height:44px;border:var(--line);border-radius:50%;background:var(--white);font-size:22px;line-height:1;font-weight:700}
+.gallery{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;border-bottom:var(--line);background:#fff}
+.gallery::-webkit-scrollbar{display:none}
+.gallery img{flex:0 0 100%;width:100%;aspect-ratio:1/1;object-fit:contain;scroll-snap-align:center;padding:18px}
+.dots{display:flex;justify-content:center;gap:7px;padding:12px 0 0}
+.dots i{width:9px;height:9px;border-radius:50%;border:2px solid #000;background:#fff}
+.dots i.on{background:var(--red)}
+.detail{padding:14px 18px 28px}
+.detail .line{font-weight:600;color:var(--muted);font-size:14px}
+.detail h3{font-family:var(--display);font-weight:600;font-size:30px;line-height:1.08;margin-top:2px}
+.detail .meta{color:var(--muted);margin-top:4px}
+.pricebox{margin-top:18px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.pricebox .price{font-size:32px;padding:9px 14px 7px}
+.pricebox small{font-size:15px;color:var(--muted);max-width:24ch;line-height:1.3}
+.reserve{margin-top:14px;font-size:15px;background:#FFF6BF;border:2px solid #000;border-radius:12px;padding:10px 12px}
+.slow{margin-top:10px;font-size:15px;background:#DCEBFF;border:2px solid #000;border-radius:12px;padding:10px 12px}
+.desc{list-style:none;margin-top:18px;display:grid;gap:8px;font-size:16px}
+.detail .btn{width:100%;margin-top:22px}
+.ref{margin-top:14px;font-size:13px;color:var(--muted);text-align:center}
+
+@media (min-width:640px){
+  .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .steps{grid-template-columns:repeat(3,1fr)}
+  .step{grid-template-columns:1fr}
+  .facts{grid-template-columns:repeat(2,1fr)}
+}
+@media (min-width:960px){.grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+  <div class="wrap">
+    <a class="brand" href="https://instagram.com/cooltura.ve"><img src="assets/logo.jpg" alt="Logo de Cooltura"><span>Cooltura</span></a>
+    <h1>Encargos</h1>
+    <p class="lead">¿No lo tenemos? Te lo traemos.</p>
+    <p class="sub">Elige lo que quieres, resérvalo y te lo enviamos a cualquier parte de Venezuela.</p>
+  </div>
+</header>
+
+<main>
+  <section class="how wrap" aria-labelledby="how-t">
+    <h2 id="how-t">Cómo funciona</h2>
+    <ol class="steps">
+      <li class="step"><span class="n">1</span><div><h3>Elige tu producto</h3><p>Escríbenos por WhatsApp desde el botón del producto.</p></div></li>
+      <li class="step"><span class="n">2</span><div><h3>Reserva con el 70%</h3><p>Nosotros nos ocupamos de traerlo.</p></div></li>
+      <li class="step"><span class="n">3</span><div><h3>Llega y pagas el 30%</h3><p>Tu encargo está listo en <b data-entrega></b>.</p></div></li>
+    </ol>
+    <div class="facts">
+      <p class="fact"><span class="ic">💵</span><span>Precios en divisas. <b>Pregunta por el precio en bolívares.</b></span></p>
+      <p class="fact"><span class="ic">📦</span><span><b>Envío nacional incluido</b> por MRW a cualquier parte de Venezuela.</span></p>
+      <p class="fact"><span class="ic">💳</span><span>Pago móvil, efectivo, Zelle y Binance.</span></p>
+      <p class="fact"><span class="ic">📌</span><span>El anticipo no es reembolsable. Los precios se confirman al momento de encargar.</span></p>
+    </div>
+  </section>
+
+  <section class="ask" aria-labelledby="ask-t1">
+    <div class="wrap">
+      <h2 id="ask-t1">¿Buscas algo más?</h2>
+      <p>Si no está en la lista, igual te lo conseguimos: LEGO, Funko Pop!, 4D Build y mucho más. Dinos qué quieres y te pasamos el precio.</p>
+      <a class="btn askBtn" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.2-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6.5-.1 1.5-.6 1.7-1.2s.2-1.1.2-1.2-.2-.2-.5-.3Z"/></svg>
+        Pedir otro producto
+      </a>
+    </div>
+  </section>
+
+  <section class="catalog wrap" aria-labelledby="cat-t">
+    <div class="catalog-head"><h2 id="cat-t">Disponibles por encargo</h2><span class="count" id="count"></span></div>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <section class="ask" aria-labelledby="ask-t">
+    <div class="wrap">
+      <h2 id="ask-t">¿Buscas algo más?</h2>
+      <p>Si no está en la lista, igual te lo conseguimos: LEGO, Funko Pop!, 4D Build y mucho más. Dinos qué quieres y te pasamos el precio.</p>
+      <a class="btn askBtn" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.2-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6.5-.1 1.5-.6 1.7-1.2s.2-1.1.2-1.2-.2-.2-.5-.3Z"/></svg>
+        Pedir otro producto
+      </a>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap">
+  <p>Cooltura · Tienda de LEGO y coleccionables en Venezuela. Síguenos en <a href="https://instagram.com/cooltura.ve" target="_blank" rel="noopener">@cooltura.ve</a></p>
+</footer>
+
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="d-name">
+  <div class="scrim" data-close></div>
+  <div class="panel" id="panel"></div>
+</div>
+
+<script>
+const CONFIG = {
+  whatsapp: "584248417768",
+  entrega: "10 a 20 días"
+};
+const WA_SVG = document.querySelector('.askBtn svg').outerHTML;
+const wa = msg => `https://wa.me/${CONFIG.whatsapp}?text=${encodeURIComponent(msg)}`;
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+document.querySelectorAll('[data-entrega]').forEach(el => el.textContent = CONFIG.entrega);
+const ASK_URL = wa('¡Hola Cooltura! Estoy buscando algo que no está en el catálogo de encargos: ');
+document.querySelectorAll('.askBtn').forEach(a => a.href = ASK_URL);
+
+let PRODUCTS = [];
+const grid = document.getElementById('grid');
+const sheet = document.getElementById('sheet');
+const panel = document.getElementById('panel');
+let lastFocus = null;
+
+function meta(p, long){
+  const parts = [];
+  if(p.piezas) parts.push(`${p.piezas} piezas`);
+  if(p.edad) parts.push(long ? `Edad ${esc(p.edad)}` : esc(p.edad));
+  return parts.join(' · ');
+}
+
+function card(p){
+  return `<button class="card" data-id="${esc(p.id)}" aria-label="Ver ${esc(p.nombre)}">
+    <div class="ph"><img src="${esc(p.imagenes[0])}" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
+    <div class="info">
+      <span class="line">${esc(p.linea)} · ${esc(p.id)}</span>
+      <span class="name">${esc(p.nombre)}</span>
+      ${meta(p) ? `<span class="meta">${meta(p)}</span>` : ''}
+      <span class="tag"><span class="price">$${p.precio}</span></span>
+    </div>
+  </button>`;
+}
+
+function openProduct(id, push=true){
+  const p = PRODUCTS.find(x => x.id === id);
+  if(!p) return;
+  lastFocus = document.activeElement;
+  const msg = `¡Hola Cooltura! Quiero encargar el ${p.linea} ${p.id} ${p.nombre} ($${p.precio}). ¿Me confirmas disponibilidad y el precio en bolívares?`;
+  panel.innerHTML = `
+    <button class="close" data-close aria-label="Cerrar">✕</button>
+    <div class="gallery" id="gal">${p.imagenes.map((src,i)=>`<img src="${esc(src)}" alt="${esc(p.nombre)}, foto ${i+1}" ${i?'loading="lazy"':''} referrerpolicy="no-referrer">`).join('')}</div>
+    ${p.imagenes.length>1?`<div class="dots" id="dots">${p.imagenes.map((_,i)=>`<i class="${i?'':'on'}"></i>`).join('')}</div>`:''}
+    <div class="detail">
+      <span class="line">${esc(p.linea)} · ${esc(p.id)}</span>
+      <h3 id="d-name">${esc(p.nombre)}</h3>
+      ${meta(p, true) ? `<p class="meta">${meta(p, true)}</p>` : ''}
+      <div class="pricebox"><span class="price">$${p.precio}</span><small>Incluye envío nacional por MRW. Pregunta por el precio en bolívares.</small></div>
+      <p class="reserve">Reserva con <b>$${Math.ceil(p.precio*0.7)}</b> (70%) y paga <b>$${p.precio-Math.ceil(p.precio*0.7)}</b> cuando llegue.</p>
+      ${p.entrega ? `<p class="slow">Este producto tarda un poco más en llegar: aprox. <b>${esc(p.entrega)}</b>.</p>` : ''}
+      <ul class="desc">${p.descripcion.map(d=>`<li>${esc(d)}</li>`).join('')}</ul>
+      <a class="btn" href="${wa(msg)}" target="_blank" rel="noopener">${WA_SVG} Encargar por WhatsApp</a>
+      <p class="ref">Llega en ${esc(p.entrega || CONFIG.entrega)} aprox.</p>
+    </div>`;
+  sheet.classList.add('open');
+  document.body.style.overflow = 'hidden';
+  panel.scrollTop = 0;
+  const gal = document.getElementById('gal'), dots = document.getElementById('dots');
+  if(dots) gal.addEventListener('scroll', () => {
+    const i = Math.round(gal.scrollLeft / gal.clientWidth);
+    [...dots.children].forEach((d,k)=>d.classList.toggle('on', k===i));
+  }, {passive:true});
+  panel.querySelector('.close').focus({preventScroll:true});
+  requestAnimationFrame(() => { panel.scrollTop = 0; });
+  if(push) history.pushState({id}, '', '#' + id);
+}
+function closeProduct(push=true){
+  if(!sheet.classList.contains('open')) return;
+  sheet.classList.remove('open');
+  document.body.style.overflow = '';
+  if(lastFocus) lastFocus.focus();
+  if(push && location.hash) history.pushState({}, '', location.pathname);
+}
+
+grid.addEventListener('click', e => { const c = e.target.closest('.card'); if(c) openProduct(c.dataset.id); });
+sheet.addEventListener('click', e => { if(e.target.closest('[data-close]')) closeProduct(); });
+document.addEventListener('keydown', e => { if(e.key === 'Escape') closeProduct(); });
+window.addEventListener('popstate', () => {
+  const id = location.hash.slice(1);
+  if(id) openProduct(id, false); else closeProduct(false);
+});
+
+fetch('products.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(list => {
+    PRODUCTS = list;
+    grid.innerHTML = list.map(card).join('');
+    document.getElementById('count').textContent = `${list.length} ${list.length===1?'producto':'productos'}`;
+    const id = location.hash.slice(1);
+    if(id) openProduct(id, false);
+  })
+  .catch(() => { grid.innerHTML = '<p>No pudimos cargar el catálogo. Recarga la página o escríbenos por WhatsApp.</p>'; });
+</script>
+</body>
+</html>
