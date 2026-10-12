@@ -300,6 +300,55 @@
     ]
   },
   {
+    "id": "76297",
+    "nombre": "Groot bailarín",
+    "linea": "LEGO Marvel",
+    "piezas": 459,
+    "edad": "10+",
+    "precio": 90,
+    "imagenes": [
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/FullSizeRender.jpg?v=1745513201&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/63EC58D1-B01B-4CD3-98E6-D39759DEAF3F.webp?v=1745513511&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5092.jpg?v=1752515047&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5093.jpg?v=1752515047&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5094.jpg?v=1752515047&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5095.jpg?v=1752515047&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5096.jpg?v=1752515047&width=1000"
+    ],
+    "descripcion": [
+      "🌱 459 piezas para construir a Groot bailando",
+      "🎶 Gira la manivela y Groot mueve los brazos y la cabeza",
+      "🎧 Incluye un mini casete para un toque retro de Guardianes de la Galaxia",
+      "🦸 Una pieza adorable para cualquier colección Marvel",
+      "🎁 Un regalo divertido para fans de Marvel"
+    ]
+  },
+  {
+    "id": "43217",
+    "nombre": "Casa de Up",
+    "linea": "LEGO Disney",
+    "piezas": 598,
+    "edad": "9+",
+    "precio": 120,
+    "imagenes": [
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5102.jpg?v=1752515378&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5103.jpg?v=1752515378&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5104.jpg?v=1752515378&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5105.jpg?v=1752515378&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/43217_alt4.webp?v=1752515378&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/43217_alt5.webp?v=1752515378&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/43217_alt7.webp?v=1752515378&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5106.jpg?v=1752515378&width=1000"
+    ],
+    "descripcion": [
+      "🎈 598 piezas para despegar con la casa más famosa de Pixar",
+      "🏠 Casa con globos, varias habitaciones y detalles de la película",
+      "👴 Incluye a Carl Fredricksen y Russell en minifigura",
+      "🐶 Trae a Dug, el perro más tierno de Paradise Falls",
+      "🎁 El regalo perfecto para fans de Disney y Pixar"
+    ]
+  },
+  {
     "id": "10698",
     "nombre": "Caja de ladrillos creativos grande",
     "linea": "LEGO Classic",
@@ -416,6 +465,31 @@
     ]
   },
   {
+    "id": "10329",
+    "nombre": "Tiny Plants",
+    "linea": "LEGO Botanicals",
+    "piezas": 758,
+    "edad": "18+",
+    "precio": 80,
+    "imagenes": [
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_boxprod_v39.webp?v=1747609798&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329.webp?v=1747609798&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_alt2.webp?v=1747609798&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_alt4.webp?v=1747609798&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_alt3.webp?v=1747609798&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_alt5.webp?v=1747609798&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_alt7.webp?v=1747609798&width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_alt6.webp?v=1747609798&width=1000"
+    ],
+    "descripcion": [
+      "🌱 758 piezas para armar tu propio mini jardín",
+      "🪴 Nueve plantas pequeñas en macetas de colores, inspiradas en especies de todo el mundo",
+      "✨ Decoración verde que no necesita agua ni cuidados",
+      "🧘 Un armado relajante, ideal para desconectarte",
+      "🎁 Regalo perfecto para amantes de las plantas y el diseño"
+    ]
+  },
+  {
     "id": "76437",
     "nombre": "La Madriguera",
     "linea": "LEGO Harry Potter",
@@ -436,6 +510,29 @@
       "🧙 Incluye 10 minifiguras del mundo de Harry Potter",
       "✨ Una pieza central para cualquier colección mágica",
       "🎁 El regalo soñado para fans de Harry Potter"
+    ]
+  },
+  {
+    "id": "10368",
+    "nombre": "Crisantemo",
+    "linea": "LEGO Botanicals",
+    "piezas": 278,
+    "edad": "18+",
+    "precio": 50,
+    "imagenes": [
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-1.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-2.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-3.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-4.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-5.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-6.jpg?width=1000"
+    ],
+    "descripcion": [
+      "🌼 278 piezas para armar un elegante crisantemo",
+      "🌸 Flores en tonos amarillo y rosa con tallos ajustables",
+      "🏡 Queda increíble en un jarrón y combina con otros Botanicals",
+      "✨ Flores que duran para siempre, sin regar",
+      "🎁 Un detalle bonito para regalar en cualquier ocasión"
     ]
   },
   {
