@@ -5,7 +5,7 @@
     "linea": "LEGO Star Wars",
     "piezas": 293,
     "edad": "6+",
-    "precio": 60,
+    "precio": 90,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-2.jpg?width=1000",
@@ -20,7 +20,8 @@
       "⭐ Minifiguras de Star Wars con temática navideña",
       "🎄 Una tradición galáctica para toda la familia",
       "🎁 El regalo perfecto para fans de Star Wars"
-    ]
+    ],
+    "entrega": "19-29 días"
   },
   {
     "id": "76340",
@@ -51,8 +52,7 @@
     "linea": "LEGO Star Wars",
     "piezas": 584,
     "edad": "18+",
-    "precio": 135,
-    "entrega": "18-28 días",
+    "precio": 125,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75328-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75328-2.jpg?width=1000",
@@ -182,7 +182,8 @@
       "✨ Se conecta con otros sets del castillo de Hogwarts",
       "📚 Recrea las lecciones de magia más divertidas de la saga",
       "🎁 Un detalle mágico para fans de Harry Potter de todas las edades"
-    ]
+    ],
+    "entrega": "18-28 días"
   },
   {
     "id": "72043",
@@ -250,29 +251,6 @@
       "🎮 Inspirado en Minecraft y su momento más viral",
       "🧱 Figura pixelada lista para exhibir",
       "🏡 Perfecto para decorar el cuarto o el escritorio",
-      "🎁 El regalo ideal para fans de Minecraft"
-    ]
-  },
-  {
-    "id": "21276",
-    "nombre": "El Creeper",
-    "linea": "LEGO Minecraft",
-    "piezas": 665,
-    "edad": "10+",
-    "precio": 65,
-    "imagenes": [
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21276-1.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21276-2.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21276-3.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21276-4.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21276-5.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21276-6.jpg?width=1000"
-    ],
-    "descripcion": [
-      "💚 665 piezas para construir al icónico Creeper de Minecraft",
-      "🧱 Figura grande con estilo pixelado",
-      "🎮 Incluye minifigura de Creeper de colección",
-      "🏡 Perfecto para decorar el cuarto gamer",
       "🎁 El regalo ideal para fans de Minecraft"
     ]
   },
@@ -369,7 +347,8 @@
       "🧠 Ideas de construcción para empezar y miles por inventar",
       "📦 Viene en una caja resistente para guardar todo",
       "🎁 El regalo ideal para pequeños constructores creativos"
-    ]
+    ],
+    "entrega": "19-29 días"
   },
   {
     "id": "76784",
@@ -378,7 +357,6 @@
     "piezas": 358,
     "edad": "9+",
     "precio": 55,
-    "entrega": "18-28 días",
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76784-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76784-2.jpg?width=1000",
@@ -632,8 +610,7 @@
     "linea": "LEGO Harry Potter",
     "piezas": 868,
     "edad": "14+",
-    "precio": 90,
-    "entrega": "27-37 días",
+    "precio": 100,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76470-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76470-2.jpg?width=1000",
@@ -656,7 +633,7 @@
     "linea": "LEGO Technic",
     "piezas": 806,
     "edad": "9+",
-    "precio": 100,
+    "precio": 95,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-42196-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-42196-2.jpg?width=1000",
@@ -679,7 +656,7 @@
     "linea": "LEGO Pokémon",
     "piezas": 2050,
     "edad": "18+",
-    "precio": 365,
+    "precio": 355,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72152-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72152-2.jpg?width=1000",
@@ -908,8 +885,8 @@
     "linea": "LEGO Fortnite",
     "piezas": 1084,
     "edad": "10+",
-    "precio": 135,
-    "entrega": "18-28 días",
+    "precio": 190,
+    "entrega": "17-27 días",
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77077-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77077-2.jpg?width=1000",
@@ -1437,7 +1414,7 @@
     "linea": "LEGO Ideas",
     "piezas": 4090,
     "edad": "18+",
-    "precio": 640,
+    "precio": 635,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-2.jpg?width=1000",
@@ -1506,7 +1483,7 @@
     "linea": "LEGO Icons",
     "piezas": 4154,
     "edad": "18+",
-    "precio": 930,
+    "precio": 865,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10366-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10366-2.jpg?width=1000",
