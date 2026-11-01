@@ -1,58 +1,11 @@
 [
   {
-    "id": "75456",
-    "nombre": "Calendario de Adviento Star Wars 2026",
-    "linea": "LEGO Star Wars",
-    "piezas": 293,
-    "edad": "6+",
-    "precio": 90,
-    "imagenes": [
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-1.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-2.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-3.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-4.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-5.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75456-6.jpg?width=1000"
-    ],
-    "descripcion": [
-      "🌌 293 piezas repartidas en 24 sorpresas",
-      "📅 Calendario de Adviento para contar los días hasta Navidad",
-      "⭐ Minifiguras de Star Wars con temática navideña",
-      "🎄 Una tradición galáctica para toda la familia",
-      "🎁 El regalo perfecto para fans de Star Wars"
-    ],
-    "entrega": "19-29 días"
-  },
-  {
-    "id": "76340",
-    "nombre": "Calendario de Adviento Marvel 2026",
-    "linea": "LEGO Marvel",
-    "piezas": 317,
-    "edad": "6+",
-    "precio": 90,
-    "imagenes": [
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76340-1.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76340-2.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76340-3.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76340-4.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76340-5.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76340-6.jpg?width=1000"
-    ],
-    "descripcion": [
-      "🦸 317 piezas repartidas en 24 sorpresas",
-      "📅 Calendario de Adviento para contar los días hasta Navidad",
-      "✨ Minifiguras de Marvel con temática navideña",
-      "🎄 Una tradición divertida para toda la familia",
-      "🎁 El regalo perfecto para fans de Marvel"
-    ]
-  },
-  {
     "id": "75328",
     "nombre": "Casco de El Mandaloriano",
     "linea": "LEGO Star Wars",
     "piezas": 584,
     "edad": "18+",
-    "precio": 125,
+    "precio": 145,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75328-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75328-2.jpg?width=1000",
@@ -75,7 +28,7 @@
     "linea": "LEGO Super Mario",
     "piezas": 1215,
     "edad": "18+",
-    "precio": 255,
+    "precio": 295,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-71438-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-71438-2.jpg?width=1000",
@@ -98,7 +51,7 @@
     "linea": "LEGO Star Wars",
     "piezas": 921,
     "edad": "18+",
-    "precio": 135,
+    "precio": 155,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75375-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75375-2.jpg?width=1000",
@@ -121,7 +74,7 @@
     "linea": "LEGO Disney Moana 2",
     "piezas": 566,
     "edad": "9+",
-    "precio": 50,
+    "precio": 75,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43272-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43272-2.jpg?width=1000",
@@ -144,7 +97,7 @@
     "linea": "LEGO Harry Potter",
     "piezas": 2660,
     "edad": "18+",
-    "precio": 265,
+    "precio": 310,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76419-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76419-2.jpg?width=1000",
@@ -167,7 +120,7 @@
     "linea": "LEGO Harry Potter",
     "piezas": 204,
     "edad": "8+",
-    "precio": 30,
+    "precio": 40,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76442-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76442-2.jpg?width=1000",
@@ -182,8 +135,7 @@
       "✨ Se conecta con otros sets del castillo de Hogwarts",
       "📚 Recrea las lecciones de magia más divertidas de la saga",
       "🎁 Un detalle mágico para fans de Harry Potter de todas las edades"
-    ],
-    "entrega": "18-28 días"
+    ]
   },
   {
     "id": "72043",
@@ -191,7 +143,7 @@
     "linea": "LEGO Super Mario",
     "piezas": 278,
     "edad": "7+",
-    "precio": 85,
+    "precio": 95,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72043-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72043-2.jpg?width=1000",
@@ -214,7 +166,7 @@
     "linea": "LEGO Disney Princess",
     "piezas": 290,
     "edad": "5+",
-    "precio": 60,
+    "precio": 70,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-2.jpg?width=1000",
@@ -237,7 +189,7 @@
     "linea": "LEGO Minecraft",
     "piezas": 344,
     "edad": "9+",
-    "precio": 60,
+    "precio": 70,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21582-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21582-2.jpg?width=1000",
@@ -260,7 +212,7 @@
     "linea": "LEGO Disney",
     "piezas": 378,
     "edad": "9+",
-    "precio": 100,
+    "precio": 115,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43277-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43277-2.jpg?width=1000",
@@ -283,7 +235,7 @@
     "linea": "LEGO Marvel",
     "piezas": 459,
     "edad": "10+",
-    "precio": 90,
+    "precio": 105,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/FullSizeRender.jpg?v=1745513201&width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/63EC58D1-B01B-4CD3-98E6-D39759DEAF3F.webp?v=1745513511&width=1000",
@@ -307,7 +259,7 @@
     "linea": "LEGO Disney",
     "piezas": 598,
     "edad": "9+",
-    "precio": 120,
+    "precio": 135,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5102.jpg?v=1752515378&width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/IMG-5103.jpg?v=1752515378&width=1000",
@@ -332,7 +284,7 @@
     "linea": "LEGO Classic",
     "piezas": 790,
     "edad": "4+",
-    "precio": 65,
+    "precio": 80,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10698-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10698-2.jpg?width=1000",
@@ -347,8 +299,7 @@
       "🧠 Ideas de construcción para empezar y miles por inventar",
       "📦 Viene en una caja resistente para guardar todo",
       "🎁 El regalo ideal para pequeños constructores creativos"
-    ],
-    "entrega": "19-29 días"
+    ]
   },
   {
     "id": "76784",
@@ -356,7 +307,7 @@
     "linea": "LEGO Wednesday",
     "piezas": 358,
     "edad": "9+",
-    "precio": 55,
+    "precio": 65,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76784-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76784-2.jpg?width=1000",
@@ -379,7 +330,7 @@
     "linea": "LEGO Star Wars",
     "piezas": 1138,
     "edad": "18+",
-    "precio": 270,
+    "precio": 315,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75398-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75398-2.jpg?width=1000",
@@ -402,7 +353,7 @@
     "linea": "LEGO Super Mario",
     "piezas": 1371,
     "edad": "18+",
-    "precio": 390,
+    "precio": 450,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72051-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72051-2.jpg?width=1000",
@@ -425,7 +376,7 @@
     "linea": "LEGO Star Wars",
     "piezas": 1544,
     "edad": "18+",
-    "precio": 330,
+    "precio": 385,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75455-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75455-2.jpg?width=1000",
@@ -448,7 +399,7 @@
     "linea": "LEGO Botanicals",
     "piezas": 758,
     "edad": "18+",
-    "precio": 80,
+    "precio": 90,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329_boxprod_v39.webp?v=1747609798&width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/10329.webp?v=1747609798&width=1000",
@@ -473,7 +424,7 @@
     "linea": "LEGO Harry Potter",
     "piezas": 2405,
     "edad": "18+",
-    "precio": 505,
+    "precio": 585,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76437-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76437-2.jpg?width=1000",
@@ -496,7 +447,7 @@
     "linea": "LEGO Botanicals",
     "piezas": 278,
     "edad": "18+",
-    "precio": 50,
+    "precio": 55,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10368-2.jpg?width=1000",
@@ -519,7 +470,7 @@
     "linea": "LEGO Icons",
     "piezas": 830,
     "edad": "18+",
-    "precio": 195,
+    "precio": 225,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11389-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11389-2.jpg?width=1000",
@@ -542,7 +493,7 @@
     "linea": "LEGO DC",
     "piezas": 2953,
     "edad": "18+",
-    "precio": 580,
+    "precio": 675,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76300-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76300-2.jpg?width=1000",
@@ -564,7 +515,7 @@
     "nombre": "Choza del pueblo del molino",
     "linea": "LEGO ONE PIECE",
     "edad": "8+",
-    "precio": 50,
+    "precio": 55,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75636-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75636-2.jpg?width=1000",
@@ -587,7 +538,7 @@
     "linea": "LEGO El Señor de los Anillos",
     "piezas": 6167,
     "edad": "18+",
-    "precio": 965,
+    "precio": 1125,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10316-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10316-2.jpg?width=1000",
@@ -610,7 +561,7 @@
     "linea": "LEGO Harry Potter",
     "piezas": 868,
     "edad": "14+",
-    "precio": 100,
+    "precio": 115,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76470-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76470-2.jpg?width=1000",
@@ -633,7 +584,7 @@
     "linea": "LEGO Technic",
     "piezas": 806,
     "edad": "9+",
-    "precio": 95,
+    "precio": 115,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-42196-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-42196-2.jpg?width=1000",
@@ -656,7 +607,7 @@
     "linea": "LEGO Pokémon",
     "piezas": 2050,
     "edad": "18+",
-    "precio": 355,
+    "precio": 415,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72152-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72152-2.jpg?width=1000",
@@ -678,7 +629,7 @@
     "nombre": "Carpa de circo de Buggy el Payaso",
     "linea": "LEGO ONE PIECE",
     "edad": "8+",
-    "precio": 60,
+    "precio": 70,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75637-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75637-2.jpg?width=1000",
@@ -701,7 +652,7 @@
     "linea": "LEGO The Legend of Zelda",
     "piezas": 1003,
     "edad": "18+",
-    "precio": 255,
+    "precio": 295,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77093-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77093-2.jpg?width=1000",
@@ -724,7 +675,7 @@
     "linea": "LEGO Ideas",
     "piezas": 964,
     "edad": "18+",
-    "precio": 175,
+    "precio": 205,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21368-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21368-2.jpg?width=1000",
@@ -747,7 +698,7 @@
     "linea": "LEGO Jurassic World",
     "piezas": 3145,
     "edad": "18+",
-    "precio": 485,
+    "precio": 565,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76968-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-76968-2.jpg?width=1000",
@@ -770,7 +721,7 @@
     "linea": "LEGO El Señor de los Anillos",
     "piezas": 5471,
     "edad": "18+",
-    "precio": 890,
+    "precio": 1035,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10333-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10333-2.jpg?width=1000",
@@ -788,12 +739,35 @@
     ]
   },
   {
+    "id": "31208",
+    "nombre": "Hokusai: La gran ola",
+    "linea": "LEGO Art",
+    "piezas": 1810,
+    "edad": "18+",
+    "precio": 255,
+    "imagenes": [
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-1.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-2.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-3.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-4.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-5.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-6.jpg?width=1000"
+    ],
+    "descripcion": [
+      "🌊 1810 piezas para recrear La gran ola de Kanagawa de Hokusai",
+      "🖼️ Obra en 3D con capas que le dan profundidad",
+      "🏯 Incluye marco y gancho para colgar en la pared",
+      "🎨 Un armado relajante para amantes del arte japonés",
+      "🎁 Un regalo elegante para decorar cualquier espacio"
+    ]
+  },
+  {
     "id": "10365",
     "nombre": "Barco pirata del Capitán Jack Sparrow",
     "linea": "LEGO Icons",
     "piezas": 2862,
     "edad": "18+",
-    "precio": 735,
+    "precio": 855,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10365-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10365-2.jpg?width=1000",
@@ -816,7 +790,7 @@
     "linea": "LEGO El Señor de los Anillos",
     "piezas": 2017,
     "edad": "18+",
-    "precio": 525,
+    "precio": 610,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10354-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10354-2.jpg?width=1000",
@@ -839,8 +813,7 @@
     "linea": "LEGO Fortnite",
     "piezas": 1084,
     "edad": "10+",
-    "precio": 190,
-    "entrega": "17-27 días",
+    "precio": 220,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77077-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77077-2.jpg?width=1000",
@@ -863,7 +836,7 @@
     "linea": "LEGO Creator",
     "piezas": 657,
     "edad": "8+",
-    "precio": 100,
+    "precio": 115,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31393-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31393-2.jpg?width=1000",
@@ -886,7 +859,7 @@
     "linea": "LEGO Harry Potter",
     "piezas": 6020,
     "edad": "16+",
-    "precio": 910,
+    "precio": 1060,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-71043-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-71043-2.jpg?width=1000",
@@ -909,7 +882,7 @@
     "linea": "LEGO Pokémon",
     "piezas": 6838,
     "edad": "18+",
-    "precio": 1255,
+    "precio": 1465,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72153-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72153-2.jpg?width=1000",
@@ -931,7 +904,7 @@
     "nombre": "Pack de 8 figuras de superhéroes de 6 pulgadas",
     "linea": "Marvel",
     "edad": "4+",
-    "precio": 90,
+    "precio": 105,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-marvel-8-figuras-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-marvel-8-figuras-2.jpg?width=1000",
@@ -954,7 +927,7 @@
     "linea": "LEGO Botanicals",
     "piezas": 608,
     "edad": "18+",
-    "precio": 85,
+    "precio": 100,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10370-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10370-2.jpg?width=1000",
@@ -977,7 +950,7 @@
     "linea": "LEGO Shrek",
     "piezas": 1403,
     "edad": "18+",
-    "precio": 255,
+    "precio": 295,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72423-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72423-2.jpg?width=1000",
@@ -1000,7 +973,7 @@
     "linea": "LEGO El Señor de los Anillos",
     "piezas": 8278,
     "edad": "18+",
-    "precio": 1255,
+    "precio": 1465,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11377-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11377-2.jpg?width=1000",
@@ -1023,7 +996,7 @@
     "linea": "LEGO Star Wars",
     "piezas": 9023,
     "edad": "18+",
-    "precio": 1930,
+    "precio": 2250,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75419-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75419-2.jpg?width=1000",
@@ -1046,7 +1019,7 @@
     "linea": "LEGO Speed Champions",
     "piezas": 345,
     "edad": "9+",
-    "precio": 50,
+    "precio": 55,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77262-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77262-2.jpg?width=1000",
@@ -1064,12 +1037,35 @@
     ]
   },
   {
+    "id": "72154",
+    "nombre": "Poké Ball: Momentos icónicos de entrenador",
+    "linea": "LEGO Pokémon",
+    "piezas": 2339,
+    "edad": "18+",
+    "precio": 675,
+    "imagenes": [
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72154-1.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72154-2.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72154-3.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72154-4.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72154-5.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72154-6.jpg?width=1000"
+    ],
+    "descripcion": [
+      "🔴 2339 piezas para construir una Poké Ball llena de momentos icónicos",
+      "🧑 Incluye 3 minifiguras y 2 figuras de Pokémon",
+      "🎮 Recrea escenas del mundo Pokémon",
+      "✨ Una pieza de colección única",
+      "🎁 El regalo perfecto para fans de Pokémon"
+    ]
+  },
+  {
     "id": "40809",
     "nombre": "Casa de jengibre festiva",
     "linea": "LEGO Navidad",
     "piezas": 498,
     "edad": "10+",
-    "precio": 80,
+    "precio": 90,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-40809-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-40809-2.jpg?width=1000",
@@ -1092,7 +1088,7 @@
     "linea": "LEGO ONE PIECE",
     "piezas": 3402,
     "edad": "18+",
-    "precio": 640,
+    "precio": 745,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75640-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75640-2.jpg?width=1000",
@@ -1115,7 +1111,7 @@
     "linea": "LEGO Art",
     "piezas": 3091,
     "edad": "18+",
-    "precio": 370,
+    "precio": 430,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31212-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31212-2.jpg?width=1000",
@@ -1138,7 +1134,7 @@
     "linea": "LEGO Creator",
     "piezas": 647,
     "edad": "9+",
-    "precio": 110,
+    "precio": 125,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31152-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31152-2.jpg?width=1000",
@@ -1161,7 +1157,7 @@
     "linea": "LEGO Icons",
     "piezas": 3601,
     "edad": "18+",
-    "precio": 505,
+    "precio": 585,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10341-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10341-2.jpg?width=1000",
@@ -1184,7 +1180,7 @@
     "linea": "LEGO Art",
     "piezas": 1892,
     "edad": "18+",
-    "precio": 270,
+    "precio": 315,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31218-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31218-2.jpg?width=1000",
@@ -1207,7 +1203,7 @@
     "linea": "LEGO Icons",
     "piezas": 493,
     "edad": "18+",
-    "precio": 100,
+    "precio": 115,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10363-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10363-2.jpg?width=1000",
@@ -1230,7 +1226,7 @@
     "linea": "LEGO Icons",
     "piezas": 2102,
     "edad": "18+",
-    "precio": 270,
+    "precio": 315,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11384-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11384-2.jpg?width=1000",
@@ -1248,35 +1244,12 @@
     ]
   },
   {
-    "id": "43030",
-    "nombre": "Cofre secreto de Olivia Rodrigo",
-    "linea": "LEGO Editions",
-    "piezas": 1085,
-    "edad": "10+",
-    "precio": 155,
-    "imagenes": [
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-1.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-2.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-3.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-4.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-5.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-6.jpg?width=1000"
-    ],
-    "descripcion": [
-      "🎸 1085 piezas para construir el cofre secreto de Olivia Rodrigo",
-      "🎤 Incluye minifigura de Olivia Rodrigo y guitarra",
-      "🗝️ Tres compartimientos ocultos con sorpresas",
-      "💜 Decoración perfecta para el cuarto de cualquier fan",
-      "🎁 El regalo ideal para fans de Olivia Rodrigo"
-    ]
-  },
-  {
     "id": "21356",
     "nombre": "Barco de vapor fluvial",
     "linea": "LEGO Ideas",
     "piezas": 4090,
     "edad": "18+",
-    "precio": 635,
+    "precio": 695,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-2.jpg?width=1000",
@@ -1299,7 +1272,7 @@
     "linea": "LEGO Icons",
     "piezas": 4154,
     "edad": "18+",
-    "precio": 865,
+    "precio": 1000,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10366-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10366-2.jpg?width=1000",
@@ -1322,7 +1295,7 @@
     "linea": "LEGO Architecture",
     "piezas": 3745,
     "edad": "18+",
-    "precio": 675,
+    "precio": 790,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21067-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21067-2.jpg?width=1000",
@@ -1345,7 +1318,7 @@
     "linea": "LEGO Icons",
     "piezas": 1690,
     "edad": "18+",
-    "precio": 290,
+    "precio": 340,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11379-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-11379-2.jpg?width=1000",
