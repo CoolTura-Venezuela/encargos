@@ -5,7 +5,7 @@
     "linea": "LEGO Star Wars",
     "piezas": 584,
     "edad": "18+",
-    "precio": 145,
+    "precio": 130,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75328-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75328-2.jpg?width=1000",
@@ -158,29 +158,6 @@
       "🍄 Inspirado en el mundo de Mario Kart",
       "🏁 Para jugar, correr y ampliar con otros sets",
       "🎁 El regalo ideal para fans de Nintendo"
-    ]
-  },
-  {
-    "id": "43298",
-    "nombre": "Calendario de Adviento Princesas Disney 2026",
-    "linea": "LEGO Disney Princess",
-    "piezas": 290,
-    "edad": "5+",
-    "precio": 70,
-    "imagenes": [
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-1.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-2.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-3.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-4.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-5.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43298-6.jpg?width=1000"
-    ],
-    "descripcion": [
-      "👑 290 piezas repartidas en 24 sorpresas",
-      "📅 Calendario de Adviento para contar los días hasta Navidad",
-      "✨ Incluye 4 micromuñecas de princesas Disney",
-      "🎄 Una tradición divertida para toda la familia",
-      "🎁 El regalo perfecto para fans de las princesas Disney"
     ]
   },
   {
@@ -376,7 +353,8 @@
     "linea": "LEGO Star Wars",
     "piezas": 1544,
     "edad": "18+",
-    "precio": 385,
+    "precio": 345,
+    "entrega": "18-28 días",
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75455-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75455-2.jpg?width=1000",
@@ -515,7 +493,7 @@
     "nombre": "Choza del pueblo del molino",
     "linea": "LEGO ONE PIECE",
     "edad": "8+",
-    "precio": 55,
+    "precio": 50,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75636-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75636-2.jpg?width=1000",
@@ -607,7 +585,7 @@
     "linea": "LEGO Pokémon",
     "piezas": 2050,
     "edad": "18+",
-    "precio": 415,
+    "precio": 360,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72152-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-72152-2.jpg?width=1000",
@@ -630,6 +608,7 @@
     "linea": "LEGO ONE PIECE",
     "edad": "8+",
     "precio": 70,
+    "entrega": "17-27 días",
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75637-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-75637-2.jpg?width=1000",
@@ -744,7 +723,7 @@
     "linea": "LEGO Art",
     "piezas": 1810,
     "edad": "18+",
-    "precio": 255,
+    "precio": 305,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-31208-2.jpg?width=1000",
@@ -813,7 +792,7 @@
     "linea": "LEGO Fortnite",
     "piezas": 1084,
     "edad": "10+",
-    "precio": 220,
+    "precio": 225,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77077-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-77077-2.jpg?width=1000",
@@ -1060,6 +1039,29 @@
     ]
   },
   {
+    "id": "21058",
+    "nombre": "Gran Pirámide de Guiza",
+    "linea": "LEGO Architecture",
+    "piezas": 1476,
+    "edad": "18+",
+    "precio": 295,
+    "imagenes": [
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21058-1.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21058-2.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21058-3.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21058-4.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21058-5.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21058-6.jpg?width=1000"
+    ],
+    "descripcion": [
+      "🏜️ 1476 piezas para construir la Gran Pirámide de Guiza",
+      "🔍 Muestra el interior con sus cámaras y pasadizos",
+      "🐫 Detalles del paisaje egipcio con barcos y obreros en miniatura",
+      "🏛️ Una pieza de exhibición impresionante para amantes de la historia",
+      "🎁 Un regalo único para fans de la arquitectura"
+    ]
+  },
+  {
     "id": "40809",
     "nombre": "Casa de jengibre festiva",
     "linea": "LEGO Navidad",
@@ -1244,26 +1246,26 @@
     ]
   },
   {
-    "id": "21356",
-    "nombre": "Barco de vapor fluvial",
-    "linea": "LEGO Ideas",
-    "piezas": 4090,
-    "edad": "18+",
-    "precio": 695,
+    "id": "43030",
+    "nombre": "Cofre secreto de Olivia Rodrigo",
+    "linea": "LEGO Editions",
+    "piezas": 1085,
+    "edad": "10+",
+    "precio": 180,
     "imagenes": [
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-1.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-2.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-3.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-4.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-5.jpg?width=1000",
-      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-21356-6.jpg?width=1000"
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-1.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-2.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-3.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-4.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-5.jpg?width=1000",
+      "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-43030-6.jpg?width=1000"
     ],
     "descripcion": [
-      "⛴️ 4090 piezas para construir un barco de vapor fluvial clásico",
-      "🎡 Con rueda de paletas giratoria y tres cubiertas desmontables",
-      "🎺 Interior detallado con salón, cocina y zona de música",
-      "🏆 Una pieza de colección espectacular para exhibir",
-      "🎁 El regalo ideal para constructores expertos"
+      "🎸 1085 piezas para construir el cofre secreto de Olivia Rodrigo",
+      "🎤 Incluye minifigura de Olivia Rodrigo y guitarra",
+      "🗝️ Tres compartimientos ocultos con sorpresas",
+      "💜 Decoración perfecta para el cuarto de cualquier fan",
+      "🎁 El regalo ideal para fans de Olivia Rodrigo"
     ]
   },
   {
@@ -1272,7 +1274,7 @@
     "linea": "LEGO Icons",
     "piezas": 4154,
     "edad": "18+",
-    "precio": 1000,
+    "precio": 1080,
     "imagenes": [
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10366-1.jpg?width=1000",
       "https://cdn.shopify.com/s/files/1/0655/5726/6567/files/encargo-10366-2.jpg?width=1000",
